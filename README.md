@@ -1,2 +1,7 @@
 # yadro_test_task
-test task for yadro company
+Test task for yadro company
+
+Tape values format: <(+/-)(xxxxxxxxxx)>, without any spaces
+
+Minimum M value = 1024008
+
